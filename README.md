@@ -34,5 +34,5 @@ The dashboard visualizes sales performance for 2023 and includes:
 ![Dashboard Preview](screenshots/dashboard.png)
 
 ## 🚀 Author
-Created by [Dmitrii Drugov](https://www.upwork.com/freelancers/~01e7ffdf2b86f72f1a)  
+Created by [Dmitrii Drugov](https://www.upwork.com/freelancers/~017eb2f92a7c0310c0)  
 Data Analyst | Power BI | Excel | SQL | Python
