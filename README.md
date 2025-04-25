@@ -1,27 +1,38 @@
 # 📊 Ecommerce Sales Dashboard (Power BI)
 
-## Overview
-Interactive dashboard to analyze 2023 ecommerce sales data. Created using Power BI and Excel.
+This project showcases a fully interactive Power BI dashboard built from scratch using ecommerce sales data.
 
-![dashboard](https://github.com/user-attachments/assets/a1f11c79-fe33-42d8-bc0f-c2f515389b05)
-![sales_2023_05](https://github.com/user-attachments/assets/46cc2701-38d8-4819-af7b-b018cbcc53d2)
+## 🔍 Overview
+The dashboard visualizes sales performance for 2023 and includes:
 
-## Features
-- Monthly revenue trend (line chart)
-- Top 10 products by sales (bar chart)
-- Category distribution (pie chart)
-- Regional sales comparison
-- Filters: Category, Region, Month
+- 📈 Revenue trend by month  
+- 🏆 Top 10 products by sales  
+- 🧩 Category distribution (Electronics vs Furniture)  
+- 🌍 Regional sales breakdown  
+- 🎛 Interactive filters (Region, Category, Month)
 
-## Tools
-- Power BI
-- Excel
-- DAX
+## 🛠 Tools Used
+- Power BI Desktop  
+- Microsoft Excel  
+- DAX for calculated columns & formatting  
+- Git & GitHub
 
-## Files
-- `ecommerce_sales_data.xlsx` — Source data
-- `ecommerce_dashboard.pbix` — Power BI report
-- `screenshots/` — Dashboard screenshots
+## 📂 Files
+- `ecommerce_sales_data.xlsx` – Source data  
+- `ecommerce_dashboard.pbix` – Power BI file  
+- `screenshots/` – Dashboard visuals  
+- `README.md` – Project description
 
-## Author
-Created by Dmitrii Drugov as a portfolio project.
+## 💡 Insights Found
+- March was the highest-performing sales month
+- Electronics generated over 80% of total revenue
+- East region leads in total sales
+- West region has the highest returns
+
+## 📸 Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard.png)
+
+## 🚀 Author
+Created by [Dmitrii Drugov](https://www.upwork.com/freelancers/~01e7ffdf2b86f72f1a)  
+Data Analyst | Power BI | Excel | SQL | Python
